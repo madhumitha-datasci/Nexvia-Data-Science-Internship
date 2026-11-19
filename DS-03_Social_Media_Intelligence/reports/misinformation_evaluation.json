@@ -1,0 +1,34 @@
+{
+    "dataset": "LIAR",
+    "training_records": 10269,
+    "validation_records": 1284,
+    "test_records": 1283,
+    "label_mapping": {
+        "0": [
+            "pants-fire",
+            "false",
+            "barely-true"
+        ],
+        "1": [
+            "half-true",
+            "mostly-true",
+            "true"
+        ]
+    },
+    "test_metrics": {
+        "accuracy": 0.6009,
+        "precision": 0.6521,
+        "recall": 0.6341,
+        "f1_score": 0.643
+    },
+    "confusion_matrix": [
+        [
+            310,
+            246
+        ],
+        [
+            266,
+            461
+        ]
+    ]
+}

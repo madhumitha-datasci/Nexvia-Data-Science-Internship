@@ -1,0 +1,12 @@
+
+pandas
+numpy
+requests
+python-dotenv
+praw
+google-api-python-client
+langdetect
+emoji
+scikit-learn
+streamlit
+plotly

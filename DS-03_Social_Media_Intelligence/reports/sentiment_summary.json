@@ -1,0 +1,228 @@
+{
+    "analysis_time": "2026-11-17T19:09:00.183875",
+    "model": "lxyuan/distilbert-base-multilingual-cased-sentiments-student",
+    "total_records": 921,
+    "sentiment_distribution": {
+        "positive": 543,
+        "negative": 340,
+        "neutral": 38
+    },
+    "language_wise_sentiment": {
+        "af": {
+            "negative": 1,
+            "neutral": 0,
+            "positive": 1
+        },
+        "ar": {
+            "negative": 5,
+            "neutral": 0,
+            "positive": 6
+        },
+        "bn": {
+            "negative": 2,
+            "neutral": 0,
+            "positive": 5
+        },
+        "ca": {
+            "negative": 1,
+            "neutral": 0,
+            "positive": 1
+        },
+        "cs": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 1
+        },
+        "cy": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 2
+        },
+        "de": {
+            "negative": 4,
+            "neutral": 0,
+            "positive": 3
+        },
+        "en": {
+            "negative": 170,
+            "neutral": 20,
+            "positive": 254
+        },
+        "es": {
+            "negative": 16,
+            "neutral": 3,
+            "positive": 16
+        },
+        "et": {
+            "negative": 2,
+            "neutral": 0,
+            "positive": 2
+        },
+        "fa": {
+            "negative": 1,
+            "neutral": 0,
+            "positive": 0
+        },
+        "fr": {
+            "negative": 1,
+            "neutral": 0,
+            "positive": 6
+        },
+        "gu": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 3
+        },
+        "hi": {
+            "negative": 5,
+            "neutral": 0,
+            "positive": 9
+        },
+        "hu": {
+            "negative": 1,
+            "neutral": 0,
+            "positive": 0
+        },
+        "id": {
+            "negative": 17,
+            "neutral": 1,
+            "positive": 12
+        },
+        "it": {
+            "negative": 10,
+            "neutral": 1,
+            "positive": 14
+        },
+        "ja": {
+            "negative": 7,
+            "neutral": 0,
+            "positive": 4
+        },
+        "kn": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 2
+        },
+        "lt": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 1
+        },
+        "mk": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 1
+        },
+        "ml": {
+            "negative": 8,
+            "neutral": 0,
+            "positive": 5
+        },
+        "mr": {
+            "negative": 2,
+            "neutral": 0,
+            "positive": 1
+        },
+        "nl": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 3
+        },
+        "no": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 1
+        },
+        "pa": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 1
+        },
+        "pl": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 2
+        },
+        "pt": {
+            "negative": 20,
+            "neutral": 6,
+            "positive": 24
+        },
+        "ro": {
+            "negative": 1,
+            "neutral": 0,
+            "positive": 1
+        },
+        "ru": {
+            "negative": 10,
+            "neutral": 1,
+            "positive": 18
+        },
+        "sk": {
+            "negative": 1,
+            "neutral": 0,
+            "positive": 0
+        },
+        "so": {
+            "negative": 5,
+            "neutral": 2,
+            "positive": 4
+        },
+        "sq": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 4
+        },
+        "sv": {
+            "negative": 1,
+            "neutral": 0,
+            "positive": 3
+        },
+        "sw": {
+            "negative": 1,
+            "neutral": 2,
+            "positive": 8
+        },
+        "ta": {
+            "negative": 6,
+            "neutral": 0,
+            "positive": 3
+        },
+        "te": {
+            "negative": 1,
+            "neutral": 0,
+            "positive": 0
+        },
+        "tl": {
+            "negative": 10,
+            "neutral": 1,
+            "positive": 11
+        },
+        "tr": {
+            "negative": 10,
+            "neutral": 0,
+            "positive": 2
+        },
+        "uk": {
+            "negative": 1,
+            "neutral": 0,
+            "positive": 0
+        },
+        "unknown": {
+            "negative": 20,
+            "neutral": 1,
+            "positive": 105
+        },
+        "vi": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 3
+        },
+        "zh-cn": {
+            "negative": 0,
+            "neutral": 0,
+            "positive": 1
+        }
+    },
+    "average_confidence": 0.5724
+}

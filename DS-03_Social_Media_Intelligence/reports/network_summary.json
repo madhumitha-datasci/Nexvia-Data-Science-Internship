@@ -1,0 +1,48 @@
+{
+  "total_nodes": 855,
+  "total_edges": 582,
+  "total_communities": 274,
+  "valid_interactions": 607,
+  "top_10_influencers": [
+    {
+      "channel_id": "UCvi6hEzLM-Z_unKPSuuzKvg",
+      "pagerank_score": 0.022172
+    },
+    {
+      "channel_id": "UCcH1_Lw_VbQoxGgDJ2OW0LQ",
+      "pagerank_score": 0.016499
+    },
+    {
+      "channel_id": "UCuUGzPY5xC2nlMRUF57zUYA",
+      "pagerank_score": 0.013348
+    },
+    {
+      "channel_id": "UC1st2Mo2UrKD8YjmyU02NTQ",
+      "pagerank_score": 0.013348
+    },
+    {
+      "channel_id": "UCC_UFbcBpX7ZNUZKBBVz66w",
+      "pagerank_score": 0.013348
+    },
+    {
+      "channel_id": "UC0mhOaiTObQ9hsCIBQM7Hnw",
+      "pagerank_score": 0.013348
+    },
+    {
+      "channel_id": "UCGhNVzllpqUdslffkjkpDdQ",
+      "pagerank_score": 0.013348
+    },
+    {
+      "channel_id": "UCoDMqw0FD9Bl801_Wy9BzOw",
+      "pagerank_score": 0.013348
+    },
+    {
+      "channel_id": "UCNcBfZWpVdYrSWzQX1BJ_pw",
+      "pagerank_score": 0.013348
+    },
+    {
+      "channel_id": "UCWHiD2Y_TimKjTnC7DEoCyg",
+      "pagerank_score": 0.012717
+    }
+  ]
+}

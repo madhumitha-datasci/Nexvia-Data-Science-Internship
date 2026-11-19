@@ -1,0 +1,59 @@
+[
+    {
+        "topic_id": -1,
+        "topic_name": "Outliers / Unclassified",
+        "document_count": 4,
+        "keywords": []
+    },
+    {
+        "topic_id": 0,
+        "topic_name": "the, kaynes, and, to, hai",
+        "document_count": 313,
+        "keywords": [
+            "the",
+            "kaynes",
+            "and",
+            "to",
+            "hai",
+            "for",
+            "technology",
+            "que",
+            "de",
+            "is"
+        ]
+    },
+    {
+        "topic_id": 1,
+        "topic_name": "ai, technology, the, artificial, and",
+        "document_count": 284,
+        "keywords": [
+            "ai",
+            "technology",
+            "the",
+            "artificial",
+            "and",
+            "intelligence",
+            "of",
+            "to",
+            "shorts",
+            "you"
+        ]
+    },
+    {
+        "topic_id": 2,
+        "topic_name": "climate, the, and, news, change",
+        "document_count": 171,
+        "keywords": [
+            "climate",
+            "the",
+            "and",
+            "news",
+            "change",
+            "to",
+            "of",
+            "in",
+            "is",
+            "for"
+        ]
+    }
+]
